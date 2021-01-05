@@ -1,5 +1,5 @@
-import Util as util
-import Filtering as filter
+import util as util
+import filtering as filter
 import numpy as np
 
 # this function takes a list of antonympairs (list of pairs) and a set of testwords.

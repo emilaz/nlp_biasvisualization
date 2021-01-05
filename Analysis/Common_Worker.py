@@ -1,10 +1,10 @@
 import numpy as np
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
-import Util
-import Evaluator as eval
-import Filtering as filter
-from DatasetProvider import Dataset
+import util
+import evaluator as eval
+import filtering as filter
+from dataset_provider import Dataset
 
 
 

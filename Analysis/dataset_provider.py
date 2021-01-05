@@ -1,7 +1,7 @@
-import Util as util
-import Filtering as filter
-import Visualizations as vis
-import Evaluator as eval
+import util as util
+import filtering as filter
+import visualizations as vis
+import evaluator as eval
 from sklearn.decomposition import PCA
 from random import shuffle
 import itertools

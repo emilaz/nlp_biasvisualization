@@ -1,6 +1,6 @@
-from Common_Worker import Common_Worker as cw
+from common_worker import Common_Worker as cw
 import numpy as np
-import Visualizations as vis
+import visualizations as vis
 datasets=cw([('lsc','bigram'),('td','bigram')])
 #datasets=cw([('google',)],False)
 

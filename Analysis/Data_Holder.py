@@ -1,4 +1,4 @@
-import Filtering as filter
+import filtering as filter
 from gensim.models import Word2Vec, KeyedVectors
 
 #This class holds the actual word embeddings and common_we, which are the word embeddings reduced to common vocab
