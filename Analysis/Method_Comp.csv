@@ -1,0 +1,10 @@
+	Dataset	Method	True Male/Predicted Male	True Male/Predicted Female	True Female/Predicted Male	True Female/Predicted Female
+0	Gab	Best Overall	32	14	3	43
+1	OneBill	Best Overall	31	15	21	25
+2	Reddit All	Best Overall	15	31	9	37
+3	Gab	Best Each	32	14	3	43
+4	OneBill	Best Each	19	27	29	17
+5	Reddit All	Best Each	15	31	9	37
+6	Gab	All	37	9	24	22
+7	OneBill	All	24	22	36	10
+8	Reddit All	All	13	33	38	8
