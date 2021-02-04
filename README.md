@@ -22,5 +22,5 @@ https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
 Full results are summarised in the paper `./CSE517_Final_Project_Paper`.
 Some images that explore bias differences across our online communities can be found under `./Explorative Bias Insights`. Note that the author of the visualization tool mentioned in the paper has decided to not make her work open source.
 
-
-Use the scripts in analysis for bias insights. Examples can be found under `./Explorative Bias Insights`
+### Replication
+The scripts in `./Analysis` can be used for replication of the word embedding part of this work.
